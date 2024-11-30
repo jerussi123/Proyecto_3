@@ -15,7 +15,7 @@ import math
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SKETCHY], suppress_callback_exceptions=True)
 
 # Data limpia
-df=pd.read_csv("datos_limpios.csv", sep = ",")
+df=pd.read_csv("Tablero\datos_limpios.csv", sep = ",")
 
 df2 = df
 df2['años'] = df["periodo"] // 10
@@ -37,7 +37,7 @@ fig_año.update_layout(
     )
 
 # Se trae el modelo, para poder predecir
-model = keras.models.load_model('modelo_proyecto3.keras')
+model = keras.models.load_model('Tablero\modelo_proyecto3.keras')
 
 # Layout de la pestaña de inicio del dash
 home_layout = html.Div([
@@ -715,7 +715,7 @@ def update_progress(automovil_value, computador_value, internet_value, lavadora_
 
     return progress_percentage1, progress_percentage2, progress_percentage3, progress_percentage4
 
-data_x = pd.read_csv("datax.csv")
+data_x = pd.read_csv("Tablero\datax.csv")
 
 @app.callback(
     Output('warning-message', 'children'),
