@@ -1,0 +1,168 @@
+Columna,Categoría,Porcentaje
+cole_area_ubicacion,URBANO,91.67
+cole_area_ubicacion,RURAL,8.33
+cole_caracter,TECNICO/ACADEMICO,55.18
+cole_caracter,ACADEMICO,33.19
+cole_caracter,TECNICO,10.59
+cole_caracter,NO APLICA,1.04
+cole_genero,MIXTO,93.38
+cole_genero,MASCULINO,3.63
+cole_genero,FEMENINO,2.99
+cole_jornada,MANANA,55.6
+cole_jornada,COMPLETA,12.88
+cole_jornada,UNICA,11.3
+cole_jornada,TARDE,10.14
+cole_jornada,SABATINA,5.4
+cole_jornada,NOCHE,4.66
+cole_mcpio_ubicacion,CUCUTA,56.05
+cole_mcpio_ubicacion,OCANA,7.5
+cole_mcpio_ubicacion,VILLA DEL ROSARIO,5.94
+cole_mcpio_ubicacion,LOS PATIOS,5.35
+cole_mcpio_ubicacion,PAMPLONA,3.79
+cole_mcpio_ubicacion,TIBU,2.34
+cole_mcpio_ubicacion,EL ZULIA,1.74
+cole_mcpio_ubicacion,ABREGO,1.47
+cole_mcpio_ubicacion,CHINACOTA,1.4
+cole_mcpio_ubicacion,SARDINATA,1.3
+cole_mcpio_ubicacion,TOLEDO,1.01
+cole_mcpio_ubicacion,CONVENCION,0.91
+cole_mcpio_ubicacion,TEORAMA,0.89
+cole_mcpio_ubicacion,EL TARRA,0.75
+cole_mcpio_ubicacion,SALAZAR,0.73
+cole_mcpio_ubicacion,CACHIRA,0.71
+cole_mcpio_ubicacion,ARBOLEDAS,0.65
+cole_mcpio_ubicacion,CUCUTILLA,0.63
+cole_mcpio_ubicacion,EL CARMEN,0.6
+cole_mcpio_ubicacion,BOCHALEMA,0.52
+cole_mcpio_ubicacion,CHITAGA,0.48
+cole_mcpio_ubicacion,PUERTO SANTANDER,0.47
+cole_mcpio_ubicacion,LABATECA,0.43
+cole_mcpio_ubicacion,GRAMALOTE,0.4
+cole_mcpio_ubicacion,LA PLAYA,0.4
+cole_mcpio_ubicacion,PAMPLONITA,0.39
+cole_mcpio_ubicacion,SAN CAYETANO,0.35
+cole_mcpio_ubicacion,DURANIA,0.32
+cole_mcpio_ubicacion,BUCARASICA,0.3
+cole_mcpio_ubicacion,RAGONVALIA,0.29
+cole_mcpio_ubicacion,SILOS,0.29
+cole_mcpio_ubicacion,SAN CALIXTO,0.27
+cole_mcpio_ubicacion,VILLA CARO,0.26
+cole_mcpio_ubicacion,MUTISCUA,0.23
+cole_mcpio_ubicacion,SANTIAGO,0.22
+cole_mcpio_ubicacion,HACARI,0.21
+cole_mcpio_ubicacion,LOURDES,0.15
+cole_mcpio_ubicacion,CACOTA,0.14
+cole_mcpio_ubicacion,HERRAN,0.14
+cole_naturaleza,OFICIAL,74.33
+cole_naturaleza,NO OFICIAL,25.67
+estu_genero,F,55.26
+estu_genero,M,44.74
+estu_mcpio_presentacion,CUCUTA,60.59
+estu_mcpio_presentacion,OCANA,10.38
+estu_mcpio_presentacion,VILLA DEL ROSARIO,5.86
+estu_mcpio_presentacion,PAMPLONA,5.83
+estu_mcpio_presentacion,LOS PATIOS,5.0
+estu_mcpio_presentacion,TIBU,2.22
+estu_mcpio_presentacion,CHINACOTA,1.9
+estu_mcpio_presentacion,SARDINATA,1.56
+estu_mcpio_presentacion,ABREGO,1.44
+estu_mcpio_presentacion,TOLEDO,1.42
+estu_mcpio_presentacion,ARBOLEDAS,1.23
+estu_mcpio_presentacion,CONVENCION,1.16
+estu_mcpio_presentacion,SALAZAR,0.71
+estu_mcpio_presentacion,CACHIRA,0.71
+estu_mcpio_reside,CUCUTA,55.83
+estu_mcpio_reside,OCANA,7.53
+estu_mcpio_reside,VILLA DEL ROSARIO,6.14
+estu_mcpio_reside,LOS PATIOS,5.29
+estu_mcpio_reside,PAMPLONA,3.82
+estu_mcpio_reside,TIBU,2.32
+estu_mcpio_reside,EL ZULIA,1.65
+estu_mcpio_reside,ABREGO,1.45
+estu_mcpio_reside,CHINACOTA,1.38
+estu_mcpio_reside,SARDINATA,1.29
+estu_mcpio_reside,TOLEDO,1.05
+estu_mcpio_reside,CONVENCION,0.92
+estu_mcpio_reside,TEORAMA,0.79
+estu_mcpio_reside,EL TARRA,0.73
+estu_mcpio_reside,CACHIRA,0.72
+estu_mcpio_reside,SALAZAR,0.71
+estu_mcpio_reside,CUCUTILLA,0.67
+estu_mcpio_reside,ARBOLEDAS,0.65
+estu_mcpio_reside,EL CARMEN,0.6
+estu_mcpio_reside,PUERTO SANTANDER,0.59
+estu_mcpio_reside,BOCHALEMA,0.54
+estu_mcpio_reside,CHITAGA,0.48
+estu_mcpio_reside,LABATECA,0.43
+estu_mcpio_reside,LA PLAYA,0.39
+estu_mcpio_reside,PAMPLONITA,0.37
+estu_mcpio_reside,GRAMALOTE,0.36
+estu_mcpio_reside,SAN CAYETANO,0.34
+estu_mcpio_reside,DURANIA,0.31
+estu_mcpio_reside,RAGONVALIA,0.3
+estu_mcpio_reside,BUCARASICA,0.28
+estu_mcpio_reside,SILOS,0.28
+estu_mcpio_reside,SAN CALIXTO,0.28
+estu_mcpio_reside,HACARI,0.28
+estu_mcpio_reside,VILLA CARO,0.27
+estu_mcpio_reside,SANTIAGO,0.25
+estu_mcpio_reside,MUTISCUA,0.24
+estu_mcpio_reside,LOURDES,0.16
+estu_mcpio_reside,CACOTA,0.15
+estu_mcpio_reside,HERRAN,0.14
+estu_mcpio_reside,LA ESPERANZA,0.0
+fami_cuartoshogar,3,38.29
+fami_cuartoshogar,2,37.66
+fami_cuartoshogar,4,12.73
+fami_cuartoshogar,1,6.1
+fami_cuartoshogar,5,3.54
+fami_cuartoshogar,6 o mas,1.67
+fami_educacionmadre,Secundaria (Bachillerato) completa,25.17
+fami_educacionmadre,Primaria incompleta,18.45
+fami_educacionmadre,Primaria completa,15.54
+fami_educacionmadre,Secundaria (Bachillerato) incompleta,15.52
+fami_educacionmadre,Educacion profesional completa,8.96
+fami_educacionmadre,Tecnica o tecnologica completa,6.34
+fami_educacionmadre,Ninguno,2.77
+fami_educacionmadre,Educacion profesional incompleta,1.94
+fami_educacionmadre,Postgrado,1.89
+fami_educacionmadre,Tecnica o tecnologica incompleta,1.78
+fami_educacionmadre,No sabe,1.57
+fami_educacionmadre,No Aplica,0.07
+fami_educacionpadre,Primaria incompleta,22.95
+fami_educacionpadre,Secundaria (Bachillerato) completa,21.01
+fami_educacionpadre,Primaria completa,15.78
+fami_educacionpadre,Secundaria (Bachillerato) incompleta,13.84
+fami_educacionpadre,Educacion profesional completa,7.23
+fami_educacionpadre,No sabe,5.21
+fami_educacionpadre,Ninguno,5.13
+fami_educacionpadre,Tecnica o tecnologica completa,4.08
+fami_educacionpadre,Postgrado,1.52
+fami_educacionpadre,Educacion profesional incompleta,1.4
+fami_educacionpadre,Tecnica o tecnologica incompleta,1.3
+fami_educacionpadre,No Aplica,0.56
+fami_estratovivienda,Estrato 1,43.62
+fami_estratovivienda,Estrato 2,39.94
+fami_estratovivienda,Estrato 3,10.94
+fami_estratovivienda,Estrato 4,3.6
+fami_estratovivienda,Sin Estrato,0.87
+fami_estratovivienda,Estrato 5,0.75
+fami_estratovivienda,Estrato 6,0.28
+fami_personashogar,3 a 4,47.8
+fami_personashogar,5 a 6,34.52
+fami_personashogar,7 a 8,8.68
+fami_personashogar,1 a 2,5.97
+fami_personashogar,9 o mas,3.04
+fami_tieneautomovil,No,76.76
+fami_tieneautomovil,Si,23.24
+fami_tienecomputador,Si,51.89
+fami_tienecomputador,No,48.11
+fami_tieneinternet,Si,52.74
+fami_tieneinternet,No,47.26
+fami_tienelavadora,Si,64.72
+fami_tienelavadora,No,35.28
+desemp_ingles,A-,44.68
+desemp_ingles,A1,34.1
+desemp_ingles,A2,13.59
+desemp_ingles,B1,6.15
+desemp_ingles,B+,1.47
